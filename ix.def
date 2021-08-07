@@ -1,0 +1,32 @@
+[Info]
+name ="Ixnaydk"
+displayname ="Ixnaydk"
+versiondate =29,12,2008
+mugenversion =04,14,2001
+author ="Ixnaydk"
+pal.defaults =6,3,4,2,5,1
+localcoord=320,240
+
+[Files]
+cmd=ix.cmd
+cns=ix.cns
+st=ix.cns
+stcommon =common1.cns
+sprite =ix.sff
+anim =ix.air
+sound =ix.snd
+pal1=ix.act
+
+[Palette Keymap]
+a = 4
+b = 5
+c = 6
+x = 1
+y = 2
+z = 3
+a2 = 10
+b2 = 11
+c2 = 12
+x2 = 7
+y2 = 8
+z2 = 9

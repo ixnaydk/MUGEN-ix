@@ -1,0 +1,40 @@
+				  Ixnaydk
+				  """""""
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Nome - Ixnaydk
+Versão - 0.X
+Autor - Ixnaydk
+Site - www.paodemugen.com.br
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Novidades da Versão 0.X
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Golpes
+
+Básicos
+- Socos: x/y
+- Chutes: a/b
+- Power Charge: c+z
+
+Especiais
+- iXplit: D,DF,F+x/y/x+y
+- Arukas: D,DF,F+a/b/a+b
+- Nuit: B,D,DB+x/y
+- Choose: D,DB,B+a/b
+- Digwig: D,DB,B+x/y (Aéreo)
+- Intermission: B,D,DB+a/b
+
+Supers
+- Tiroleis: B,DB,D,DF,F+x/y
+- Redundant: F,DF,D,DB,B+a/b
+
+Exceed
+- Freak Out: D,DB,B,D,DF,F+
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Agradecimentos
+
+- Wuwo, DreamSlayer, Mugen Archive e MugenChina: Por terem disponibilizado vários packs com sprites.
+- Sam, Dee Jack, Midnight Spirit, Venom Viado, Incas, Trialforce, JaguarHX, Lion Meia Boca, Jéssica Smoke
